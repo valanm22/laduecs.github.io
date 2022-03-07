@@ -1,2 +1,2 @@
-# Ladue Computer Science Club
+# Ladue Computer Science
 Website for Ladue Computer Science
