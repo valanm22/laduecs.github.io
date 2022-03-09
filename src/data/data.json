@@ -4,18 +4,14 @@
     "paragraph": " We are dedicated to promoting computer science in the Ladue community."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  ",
+    "paragraph": "We're a club. We do CS. We're from Ladue. AWWW YEAH!",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Because we're the only CS Club at Ladue (Robotics doesn't count!)",
+      "Because why not"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Because I said so",
+      "Because we'll hack you if you don't join CS club"
     ]
   },
   "Gallery": [
@@ -45,7 +41,7 @@
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "Ladue Grader Protocol",
+      "title": "OpenContest Protocol",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     },
@@ -153,10 +149,10 @@
   ],
   "Contact": {
     "address": "Room 3346 (White)",
-    "phone": "+1 123 456 1234",
+    "phone": "Insert Mr. White's phone number here LMAO",
     "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
+    "facebook": "https://github.com/LadueCS/",
+    "twitter": "https://github.com/LadueCS/",
     "youtube": "https://github.com/LadueCS/"
   },
   "Features": [
@@ -168,7 +164,7 @@
     {
       "icon": "fa fa-bullhorn",
       "title": "Create",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "text": "Create fake news bots to subvert democracy to learn about machine learning!"
     },
     {
       "icon": "fa fa-group",
