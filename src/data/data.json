@@ -129,7 +129,7 @@
     {
       "img": "img/team/01.jpg",
       "name": "Anthony",
-      "job": "\"President\" (actually <a href='https://en.wikipedia.org/wiki/Benevolent_dictator_for_life'>benevolent dictator</a>)"
+      "job": "\"President\" (actually <a href='https://en.wikipedia.org/wiki/Benevolent_dictator_for_life'>benevolent dictator</a>) crap inline HTML doesn't work?"
     },
     {
       "img": "img/team/02.jpg",
@@ -151,9 +151,7 @@
     "address": "Room 334(68) (White with 50% probability)",
     "phone": "Insert Mr. White's phone number here LMAO",
     "email": "info@company.com",
-    "facebook": "https://github.com/LadueCS/",
-    "twitter": "https://github.com/LadueCS/",
-    "youtube": "https://github.com/LadueCS/"
+    "github": "https://github.com/LadueCS/"
   },
   "Features": [
     {
