@@ -446,16 +446,25 @@ header .intro-text {
 #team h4 {
   margin: 5px 0;
 }
-#team .team-img {
-  width: 240px;
+.team-img {
+  height: 350px !important;
+  min-width: 265px;
 }
 #team .thumbnail {
   background: transparent;
   border: 0;
 }
+
 #team .thumbnail .caption {
   padding: 10px 0 0;
   color: #888;
+}
+.team {
+  width: 50%;
+  height: 500px;
+}
+.individualDesc {
+  overflow-wrap: break-word;
 }
 /* Contact Section */
 #contact {
@@ -465,6 +474,7 @@ header .intro-text {
 }
 #contact .section-title {
   margin-bottom: 40px;
+  display: block;
 }
 #contact .section-title p {
   font-size: 16px;
