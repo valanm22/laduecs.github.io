@@ -41,22 +41,22 @@
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "OpenContest Protocol",
+      "title": "OpenContest",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Presentations",
       "largeImage": "img/portfolio/07-large.jpg",
       "smallImage": "img/portfolio/07-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Duecoin",
       "largeImage": "img/portfolio/08-large.jpg",
       "smallImage": "img/portfolio/08-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "laduecs.github.io",
       "largeImage": "img/portfolio/09-large.jpg",
       "smallImage": "img/portfolio/09-small.jpg"
     }
@@ -129,26 +129,26 @@
     {
       "img": "img/team/01.jpg",
       "name": "Anthony",
-      "job": "President"
+      "job": "\"President\" (actually <a href='https://en.wikipedia.org/wiki/Benevolent_dictator_for_life'>benevolent dictator</a>)"
     },
     {
       "img": "img/team/02.jpg",
       "name": "Andy",
-      "job": "Senior Designer"
+      "job": "the person you should thank for making this website"
     },
     {
       "img": "img/team/03.jpg",
       "name": "Michael",
-      "job": "Senior Designer"
+      "job": "Director of Cyberattack Counteroperations"
     },
     {
       "img": "img/team/04.jpg",
       "name": "Sam",
-      "job": "Project Manager"
+      "job": "Vice President in case the <a href='https://en.wikipedia.org/wiki/Bus_factor'>President gets hit by a bus"
     }
   ],
   "Contact": {
-    "address": "Room 3346 (White)",
+    "address": "Room 334(68) (White with 50% probability)",
     "phone": "Insert Mr. White's phone number here LMAO",
     "email": "info@company.com",
     "facebook": "https://github.com/LadueCS/",
