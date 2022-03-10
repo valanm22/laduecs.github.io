@@ -145,6 +145,16 @@
       "img": "img/team/04.jpg",
       "name": "Sam",
       "job": "Vice President in case the <a href='https://en.wikipedia.org/wiki/Bus_factor'>President gets hit by a bus"
+    },
+    {
+      "img": "img/team/05.jpg",
+      "name": "Billiam Wender",
+      "job": "Intro to Python protagonist and memelord-in-chief"
+    },
+    {
+      "img": "img/team/06.jpg",
+      "name": "Bobert Render",
+      "job": "Billiam's long-lost brother and chairman of the Meme Party"
     }
   ],
   "Contact": {
