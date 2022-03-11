@@ -127,8 +127,8 @@ export const Contact = (props) => {
               <div className='social'>
                 <ul>
                   <li>
-                    <a href={props.data ? props.data.facebook : '/'}>
-                      <i className='fa fa-facebook'></i>
+                    <a href={props.data ? props.data.github : '/'}>
+                      <i className='fa fa-github'></i>
                     </a>
                   </li>
                   <li>
