@@ -35,6 +35,4 @@ const App = () => {
     </div>
   );
 };
-//<Services data={landingPageData.Services} />
-//<Testimonials data={landingPageData.Testimonials} />
 export default App;
