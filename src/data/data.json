@@ -1,10 +1,10 @@
 {
   "Header": {
-    "title": "Ladue Computer Science",
+    "title": "Ladue Computer Science Club",
     "paragraph": "This website needs your help!"
   },
   "About": {
-    "paragraph": "We're a club. We do CS. We're from Ladue. AWWW YEAH!",
+    "paragraph": "We're a club. We do CS. We're from Ladue. AWWW YEAH! Middle school test",
     "Why": [
       "Because we're the only CS Club at Ladue (Robotics doesn't count!)",
       "Because why not"
@@ -39,17 +39,17 @@
   "Gallery": [
     {
       "title": "2048",
-      "largeImage": "img/portfolio/01-large.jpg",
+      "link": "https://replit.com/@Ta180m/2048#main.py",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
       "title": "Intro to Python",
-      "largeImage": "img/portfolio/02-large.jpg",
+      "link": "https://github.com/LadueCS/Intro-to-Python",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
       "title": "Awesome CS",
-      "largeImage": "img/portfolio/03-large.jpg",
+      "link": "https://github.com/LadueCS/Awesome-CS",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
@@ -87,7 +87,7 @@
     {
       "img": "img/team/01.jpg",
       "name": "Anthony",
-      "job": "\"President\" (actually <a href='https://en.wikipedia.org/wiki/Benevolent_dictator_for_life'>benevolent dictator</a>) crap inline HTML doesn't work?"
+      "job": "\"President\" (actually <a href='https://en.wikipedia.org/wiki/Benevolent_dictator_for_life'>benevolent dictator</a>)"
     },
     {
       "img": "img/team/02.jpg",
@@ -102,7 +102,7 @@
     {
       "img": "img/team/04.jpg",
       "name": "Sam",
-      "job": "Vice President in case the <a href='https://en.wikipedia.org/wiki/Bus_factor'>President gets hit by a bus"
+      "job": "Vice President in case the <a href='https://en.wikipedia.org/wiki/Bus_factor'> President gets hit by a bus"
     },
     {
       "img": "img/team/05.jpg",
@@ -117,7 +117,6 @@
   ],
   "Contact": {
     "address": "Room 334(68) (White with 50% probability)",
-    "phone": "Insert Mr. White's phone number here LMAO",
     "email": "info@company.com",
     "github": "https://github.com/LadueCS/"
   }
