@@ -4,7 +4,7 @@ import { Header } from "./components/header";
 import { Features } from "./components/features";
 import { About } from "./components/about";
 import { Gallery } from "./components/gallery";
-import { Team } from "./components/Team";
+import { Team } from "./components/team";
 import { Contact } from "./components/contact";
 import JsonData from "./data/data.json";
 import "./App.css";
