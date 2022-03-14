@@ -14,6 +14,28 @@
       "Because we'll hack you if you don't join CS club"
     ]
   },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Learn",
+      "text": "Python, Web Development, Game Design, Cybersecurity"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Create",
+      "text": "Create fake news bots to subvert democracy to learn about machine learning!"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Explore",
+      "text": "RNG, Cryptocurrency, AI"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Compete",
+      "text": "ACSL, Dueforces"
+    }
+  ],
   "Gallery": [
     {
       "title": "2048",
@@ -98,27 +120,5 @@
     "phone": "Insert Mr. White's phone number here LMAO",
     "email": "info@company.com",
     "github": "https://github.com/LadueCS/"
-  },
-  "Features": [
-    {
-      "icon": "fa fa-comments-o",
-      "title": "Learn",
-      "text": "Python, Web Development, Game Design, Cybersecurity"
-    },
-    {
-      "icon": "fa fa-bullhorn",
-      "title": "Create",
-      "text": "Create fake news bots to subvert democracy to learn about machine learning!"
-    },
-    {
-      "icon": "fa fa-group",
-      "title": "Explore",
-      "text": "RNG, Cryptocurrency, AI"
-    },
-    {
-      "icon": "fa fa-magic",
-      "title": "Compete",
-      "text": "ACSL, Dueforces"
-    }
-  ]
+  }
 }
