@@ -54,32 +54,32 @@
     },
     {
       "title": "CTFs",
-      "largeImage": "img/portfolio/04-large.jpg",
+      "link": "https://github.com/LadueCS/Ultimate-Ladue-CS-Challenge",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
       "title": "DUOS",
-      "largeImage": "img/portfolio/05-large.jpg",
+      "link": "https://github.com/LadueCS/duos",
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
       "title": "OpenContest",
-      "largeImage": "img/portfolio/06-large.jpg",
+      "link": "https://laduecs.github.io/OpenContest-Web/",
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
       "title": "Presentations",
-      "largeImage": "img/portfolio/07-large.jpg",
+      "link": "https://github.com/LadueCS/Presentations",
       "smallImage": "img/portfolio/07-small.jpg"
     },
     {
       "title": "Duecoin",
-      "largeImage": "img/portfolio/08-large.jpg",
+      "link": "img/portfolio/08-large.jpg",
       "smallImage": "img/portfolio/08-small.jpg"
     },
     {
       "title": "laduecs.github.io",
-      "largeImage": "img/portfolio/09-large.jpg",
+      "link": "https://github.com/LadueCS/laduecs.github.io/",
       "smallImage": "img/portfolio/09-small.jpg"
     }
   ],
