@@ -6,7 +6,7 @@ export const Projects = (props) => {
       <div className="container">
         <div className="section-title">
           <h2>Projects</h2>
-          <p>Some screenshots of projects</p>
+          <p>Check out our projects!</p>
         </div>
         <div className="row">
           <div className="projects-items">
