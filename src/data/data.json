@@ -40,47 +40,47 @@
     {
       "title": "2048",
       "link": "https://replit.com/@Ta180m/2048#main.py",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "smallImage": "img/projects/01-small.jpg"
     },
     {
       "title": "Intro to Python",
       "link": "https://github.com/LadueCS/Intro-to-Python",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "smallImage": "img/projects/02-small.jpg"
     },
     {
       "title": "Awesome CS",
       "link": "https://github.com/LadueCS/Awesome-CS",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "smallImage": "img/projects/03-small.jpg"
     },
     {
       "title": "CTFs",
       "link": "https://github.com/LadueCS/Ultimate-Ladue-CS-Challenge",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "smallImage": "img/projects/04-small.jpg"
     },
     {
       "title": "DUOS",
       "link": "https://github.com/LadueCS/duos",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "smallImage": "img/projects/05-small.jpg"
     },
     {
       "title": "OpenContest",
       "link": "https://laduecs.github.io/OpenContest-Web/",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "smallImage": "img/projects/06-small.jpg"
     },
     {
       "title": "Presentations",
       "link": "https://github.com/LadueCS/Presentations",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "smallImage": "img/projects/07-small.jpg"
     },
     {
       "title": "Duecoin",
-      "link": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "link": "img/projects/08-large.jpg",
+      "smallImage": "img/projects/08-small.jpg"
     },
     {
       "title": "laduecs.github.io",
       "link": "https://github.com/LadueCS/laduecs.github.io/",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "smallImage": "img/projects/09-small.jpg"
     }
   ],
   "Team": [

@@ -307,15 +307,15 @@ header .intro-text {
   line-height: 24px;
   margin: 30px 0;
 }
-/* Portfolio Section */
-#portfolio {
+/* Projects Section */
+#projects {
   padding: 100px 0;
 }
-.portfolio-item {
+.projects-item {
   margin: 1px -15px 0 -14px;
   padding: 0;
 }
-.portfolio-item .hover-bg {
+.projects-item .hover-bg {
   overflow: hidden;
   position: relative;
   margin: 0;

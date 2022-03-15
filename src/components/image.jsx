@@ -1,6 +1,6 @@
 export const Image = ({ title, link, smallImage }) => {
   return (
-    <div className='portfolio-item'>
+    <div className='projects-item'>
       <div className='hover-bg'>
         {' '}
         <a

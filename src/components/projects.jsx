@@ -2,14 +2,14 @@ import { Image } from "./image";
 
 export const Projects = (props) => {
   return (
-    <div id="portfolio" className="text-center">
+    <div id="projects" className="text-center">
       <div className="container">
         <div className="section-title">
           <h2>Projects</h2>
           <p>Some screenshots of projects</p>
         </div>
         <div className="row">
-          <div className="portfolio-items">
+          <div className="projects-items">
             {props.data
               ? props.data.map((d, i) => (
                   <div
