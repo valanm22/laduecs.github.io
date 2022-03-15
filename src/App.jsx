@@ -1,11 +1,9 @@
 import { useState, useEffect } from "react";
 import { Navigation } from "./components/navigation";
 import { Header } from "./components/header";
-import { Features } from "./components/features";
 import { About } from "./components/about";
 import { Projects } from "./components/projects";
 import { Team } from "./components/team";
-import { Contact } from "./components/contact";
 import JsonData from "./data/data.json";
 import "./App.css";
 
@@ -32,5 +30,4 @@ const App = () => {
     </div>
   );
 };
-      // <Features data={landingPageData.Features} />
 export default App;
