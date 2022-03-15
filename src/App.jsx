@@ -4,7 +4,7 @@ import { Header } from "./components/header";
 import { About } from "./components/about";
 import { Projects } from "./components/projects";
 import { Team } from "./components/team";
-import JsonData from "./data/data.json";
+import JsonData from "./data.json";
 import "./App.css";
 
 const App = () => {
