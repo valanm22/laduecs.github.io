@@ -20,11 +20,17 @@ const App = () => {
       <Navigation />
       <Header data={landingPageData.Header} />
       <About data={landingPageData.About} />
-      <Features data={landingPageData.Features} />
       <Projects data={landingPageData.Projects} />
       <Team data={landingPageData.Team} />
-      <Contact data={landingPageData.Contact} />
+      <div id='footer'>
+        <div className='container text-center'>
+          <p>
+            &copy; ∞ Billiam Wender and the <a href="https://github.com/LadueCS/laduecs.github.io/graphs/contributors">Ladue community</a>
+          </p>
+        </div>
+      </div>
     </div>
   );
 };
+      // <Features data={landingPageData.Features} />
 export default App;
