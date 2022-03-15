@@ -17,8 +17,8 @@ const App = () => {
     <div>
       <Header data={landingPageData.Header} />
       <Navigation />
+      <About data={landingPageData.About} />
       <Projects data={landingPageData.Projects} />
-<About data={landingPageData.About} />
       <Team data={landingPageData.Team} />
       <div id='footer'>
         <div className='container text-center'>
