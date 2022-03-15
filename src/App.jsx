@@ -15,10 +15,10 @@ const App = () => {
 
   return (
     <div>
-      <Navigation />
       <Header data={landingPageData.Header} />
-      <About data={landingPageData.About} />
+      <Navigation />
       <Projects data={landingPageData.Projects} />
+<About data={landingPageData.About} />
       <Team data={landingPageData.Team} />
       <div id='footer'>
         <div className='container text-center'>
