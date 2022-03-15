@@ -26,6 +26,21 @@ export const Navigation = (props) => {
         >
           <ul className="nav navbar-nav navbar-right">
             <li>
+              <a
+                href="https://github.com/LadueCS/laduecs.github.io"
+                className="page-scroll p-0"
+                style={{ padding: "3px" }}
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src="img/github.svg"
+                  alt="github"
+                  style={{ height: "30px", width: "30px" }}
+                />
+              </a>
+            </li>
+            <li>
               <a href="#features" className="page-scroll">
                 Features
               </a>
