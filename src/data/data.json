@@ -59,12 +59,12 @@
     },
     {
       "title": "DUOS",
-      "link": "https://github.com/LadueCS/duos",
+      "link": "duos",
       "smallImage": "img/projects/05-small.jpg"
     },
     {
       "title": "OpenContest",
-      "link": "https://laduecs.github.io/OpenContest-Web/",
+      "link": "https://github.com/LadueCS/OpenContest",
       "smallImage": "img/projects/06-small.jpg"
     },
     {
@@ -73,14 +73,9 @@
       "smallImage": "img/projects/07-small.jpg"
     },
     {
-      "title": "Duecoin",
-      "link": "img/projects/08-large.jpg",
-      "smallImage": "img/projects/08-small.jpg"
-    },
-    {
       "title": "laduecs.github.io",
-      "link": "https://github.com/LadueCS/laduecs.github.io/",
-      "smallImage": "img/projects/09-small.jpg"
+      "link": "https://github.com/LadueCS/laduecs.github.io",
+      "smallImage": "img/projects/08-small.jpg"
     }
   ],
   "Team": [
