@@ -12,32 +12,29 @@
       "Learn to create your own personal projects",
       "CS is cool so why wouldn't you want to learn about it?"
     ],
-    "Why2": [
-      
+    "Features": [
+      {
+        "icon": "fa fa-comments-o",
+        "title": "Learn",
+        "text": "Python, Web Development, Game Design, Cybersecurity"
+      },
+      {
+        "icon": "fa fa-bullhorn",
+        "title": "Create",
+        "text": "Create fake news bots to subvert democracy to learn about machine learning!"
+      },
+      {
+        "icon": "fa fa-group",
+        "title": "Explore",
+        "text": "RNG, Cryptocurrency, AI"
+      },
+      {
+        "icon": "fa fa-magic",
+        "title": "Compete",
+        "text": "ACSL, Dueforces"
+      }
     ]
   },
-  "Features": [
-    {
-      "icon": "fa fa-comments-o",
-      "title": "Learn",
-      "text": "Python, Web Development, Game Design, Cybersecurity"
-    },
-    {
-      "icon": "fa fa-bullhorn",
-      "title": "Create",
-      "text": "Create fake news bots to subvert democracy to learn about machine learning!"
-    },
-    {
-      "icon": "fa fa-group",
-      "title": "Explore",
-      "text": "RNG, Cryptocurrency, AI"
-    },
-    {
-      "icon": "fa fa-magic",
-      "title": "Compete",
-      "text": "ACSL, Dueforces"
-    }
-  ],
   "Projects": [
     {
       "title": "2048",
