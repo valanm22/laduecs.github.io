@@ -301,8 +301,8 @@ header .intro-text {
   margin: 5px 0;
 }
 .team-img {
-  height: 350px !important;
-  min-width: 265px;
+  height: 250px !important;
+  min-width: 165px;
 }
 #team .thumbnail {
   background: transparent;
@@ -314,8 +314,8 @@ header .intro-text {
   color: #888;
 }
 .team {
-  width: 50%;
-  height: 500px;
+  width: 33%;
+  height: 400px;
 }
 .individualDesc {
   overflow-wrap: break-word;
