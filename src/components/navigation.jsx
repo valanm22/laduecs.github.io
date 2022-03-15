@@ -26,16 +26,6 @@ export const Navigation = (props) => {
         >
           <ul className="nav navbar-nav navbar-right">
             <li>
-              <a
-                href="https://github.com/LadueCS/laduecs.github.io"
-                className="page-scroll"
-                target="_blank"
-                rel="noreferrer"
-              >
-                GitHub
-              </a>
-            </li>
-            <li>
               <a href="#features" className="page-scroll">
                 Features
               </a>
@@ -53,6 +43,16 @@ export const Navigation = (props) => {
             <li>
               <a href="#team" className="page-scroll">
                 Team
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://github.com/LadueCS/laduecs.github.io"
+                className="page-scroll"
+                target="_blank"
+                rel="noreferrer"
+              >
+                GitHub
               </a>
             </li>
           </ul>
