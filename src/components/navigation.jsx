@@ -32,7 +32,7 @@ export const Navigation = (props) => {
                 target="_blank"
                 rel="noreferrer"
               >
-                Github
+                GitHub
               </a>
             </li>
             <li>
