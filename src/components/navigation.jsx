@@ -28,16 +28,11 @@ export const Navigation = (props) => {
             <li>
               <a
                 href="https://github.com/LadueCS/laduecs.github.io"
-                className="page-scroll p-0"
-                style={{ padding: "3px" }}
+                className="page-scroll"
                 target="_blank"
                 rel="noreferrer"
               >
-                <img
-                  src="img/github.svg"
-                  alt="github"
-                  style={{ height: "30px", width: "30px" }}
-                />
+                GitHub
               </a>
             </li>
             <li>
