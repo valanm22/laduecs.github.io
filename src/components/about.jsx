@@ -1,11 +1,13 @@
 export const About = (props) => {
   return (
-    <div id="about">
+    <div id="about" className='text-center'>
       <div className="container">
         <div className="row">
           <div className="col-xs-12 col-md-6">
-            <div className="about-text">
+            <div className="section-title">
               <h2>About Us</h2>
+            </div>
+            <div className="about-text">
               <p>{props.data ? props.data.paragraph : "loading..."}</p>
               <h3>Join Us!</h3>
               <div className="list-style">
