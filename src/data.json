@@ -4,13 +4,15 @@
     "paragraph": "This website needs your help!"
   },
   "About": {
-    "paragraph": "We're a club a of creative and curious students with interest in computer science. We are dedicated to promoting computer science in our comunity.",
+    "paragraph": "We're creative and curious students interested in computer science, dedicated to promoting computer science in our comunity.",
     "Why": [
-      "We're Ladue's only dedicated computer science club (robotics doesn't count)",
-      "We participate in interesting and entertaining presentations and activities",
+      "We're Ladue's one and only computer science club! (Robotics doesn't count we're totally better!)",
+      "We participate in FUN and interesting and entertaining presentations and activities",
       "Meet and learn from smart and talented mentors",
       "Learn to create your own personal projects",
       "CS is cool so why wouldn't you want to learn about it?"
+      "Your reason here!",
+      "YOUR AD HERE"
     ],
     "Features": [
       {
@@ -31,7 +33,7 @@
       {
         "icon": "fa fa-magic",
         "title": "Compete",
-        "text": "ACSL, Dueforces"
+        "text": "ACSL, USACO, Dueforces"
       }
     ]
   },
