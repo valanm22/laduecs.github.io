@@ -83,32 +83,38 @@
     {
       "img": "img/team/anthony.jpg",
       "name": "Anthony",
-      "job": "\"President\" (actually <a href='https://en.wikipedia.org/wiki/Benevolent_dictator_for_life'>benevolent dictator</a>)"
+      "job": "\"President\" (actually <a href='https://en.wikipedia.org/wiki/Benevolent_dictator_for_life'>benevolent dictator</a>)",
+      "github": "https://github.com/Ta180m"
     },
     {
       "img": "img/team/andy.jpg",
       "name": "Andy",
-      "job": "The person you should thank for making this website"
+      "job": "The person you should thank for making this website",
+      "github": "https://github.com/spicecat"
     },
     {
       "img": "img/team/michael.jpg",
       "name": "Michael",
-      "job": "Director of Cyberattack Counteroperations"
+      "job": "Director of Cyberattack Counteroperations",
+      "github": "https://github.com/caoash"
     },
     {
       "img": "img/team/sam.jpg",
       "name": "Sam",
-      "job": "Vice President in case the <a href='https://en.wikipedia.org/wiki/Bus_factor'> President gets hit by a bus"
+      "job": "Vice President in case the <a href='https://en.wikipedia.org/wiki/Bus_factor'> President gets hit by a bus",
+      "github": "https://github.com/samuelchen2004"
     },
     {
       "img": "img/team/billiam.jpg",
       "name": "Billiam Wender",
-      "job": "Intro to Python protagonist and memelord-in-chief"
+      "job": "Intro to Python protagonist and memelord-in-chief",
+      "github": null
     },
     {
       "img": "img/team/bobert.jpg",
       "name": "Bobert Render",
-      "job": "Billiam's long-lost brother and chairman of the Meme Party"
+      "job": "Billiam's long-lost brother and chairman of the Meme Party",
+      "github": null
     }
   ]
 }

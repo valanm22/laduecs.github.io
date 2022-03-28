@@ -1,3 +1,5 @@
+import { AiFillGithub } from "react-icons/ai"
+
 export const Team = (props) => {
   return (
     <div id='team' className='text-center'>
@@ -14,7 +16,12 @@ export const Team = (props) => {
                     <img src={d.img} alt='...' className='team-img' />
                     <div className='caption'>
                       <h4>{d.name}</h4>
-                      <p dangerouslySetInnerHTML={{ __html: d.job}}></p>
+                      <p class="description-text text-center" dangerouslySetInnerHTML={{ __html: d.job}}></p>
+                      <h3>
+                        <a href={d.github} target="_blank" rel="noreferrer">
+                          <AiFillGithub></AiFillGithub>
+                        </a>
+                      </h3>
                     </div>
                   </div>
                 </div>
