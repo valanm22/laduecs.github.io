@@ -18,7 +18,7 @@ export const Team = (props) => {
                       <h4>{d.name}</h4>
                       <p class="description-text text-center" dangerouslySetInnerHTML={{ __html: d.job}}></p>
                       <h3>
-                        <a href={d.github} target="_blank">
+                        <a href={d.github} target="_blank" rel="noreferrer">
                           <AiFillGithub></AiFillGithub>
                         </a>
                       </h3>
