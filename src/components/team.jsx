@@ -13,7 +13,9 @@ export const Team = (props) => {
                 <div key={`${d.name}-${i}`} className='col-md-3 col-sm-6 team'>
                   <div className='thumbnail'>
                     {' '}
-                    <img src={d.img} alt='...' className='team-img' />
+                    <a href={d.github} target="_blank" rel="noreferrer">
+                      <img src={d.img} alt='...' className='team-img'/>
+                    </a>
                     <div className='caption'>
                       <h4>{d.name}</h4>
                       <p class="description-text text-center" dangerouslySetInnerHTML={{ __html: d.job}}></p>
