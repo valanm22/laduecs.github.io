@@ -253,17 +253,26 @@ header .intro-text {
   margin-bottom: 15px;
   padding-bottom: 15px;
 }
+
+#about #join-us {
+  font-size: 30px;
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+  font-weight: 600;
+  color:  #333;
+}
+
 #about .about-text li {
   margin-bottom: 6px;
   margin-left: 6px;
   list-style: none;
   padding: 0;
 }
+
 #about .about-text li:before {
   content: "\f00c";
   font-family: "FontAwesome";
   color: #5ca9fb;
-  font-size: 11px;
   font-weight: 300;
   padding-right: 8px;
 }
