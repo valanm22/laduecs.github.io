@@ -15,7 +15,7 @@ export const Header = (props) => {
                   href='https://github.com/LadueCS/laduecs.github.io/issues'
                   className='btn btn-custom btn-lg page-scroll'
                 >
-                  Please HELP!!!!!!!!!!!!
+                  Contribute
                 </a>{' '}
               </div>
             </div>
