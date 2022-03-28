@@ -13,7 +13,7 @@ export const Header = (props) => {
                 <p>{props.data ? props.data.paragraph : 'Loading'}</p>
                 <a
                   href='https://github.com/LadueCS/laduecs.github.io/issues'
-                  className='btn alert alert-danger btn-custom btn-lg page-scroll'
+                  className='btn btn-custom btn-lg page-scroll'
                 >
                   Please HELP!!!!!!!!!!!!
                 </a>{' '}
