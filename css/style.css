@@ -345,13 +345,19 @@ header .intro-text {
 }
 #team .thumbnail {
   background: transparent;
-  border: 0;
 }
 
 #team .thumbnail .caption {
   padding: 10px 0 0;
   color: #888;
 }
+
+.description-text {
+  display: -webkit-box;
+  line-height: 1.5em;
+  min-height: 3em;
+}
+
 .team {
   width: 33%;
   height: 400px;
