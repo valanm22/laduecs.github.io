@@ -96,13 +96,13 @@
       "img": "img/team/michael.jpg",
       "name": "Michael",
       "job": "Director of Cyberattack Counteroperations",
-      "github": null
+      "github": "https://github.com/caoash"
     },
     {
       "img": "img/team/sam.jpg",
       "name": "Sam",
       "job": "Vice President in case the <a href='https://en.wikipedia.org/wiki/Bus_factor'> President gets hit by a bus",
-      "github": null
+      "github": "https://github.com/samuelchen2004"
     },
     {
       "img": "img/team/billiam.jpg",
