@@ -364,7 +364,7 @@ header .intro-text {
 
 .team {
   width: 33%;
-  height: auto;
+  height: 400px;
 }
 .individualDesc {
   overflow-wrap: break-word;
