@@ -82,43 +82,43 @@
       "img": "img/team/anthony.jpg",
       "name": "Anthony",
       "job": "\"President\" (actually <a href='https://en.wikipedia.org/wiki/Benevolent_dictator_for_life'>benevolent dictator</a>)",
-      "github": "https://github.com/Ta180m"
+      "website": "https://ta180m.exozy.me"
     },
     {
       "img": "img/team/andy.jpg",
       "name": "Andy",
       "job": "Give Andy a high-five the next time you see him for making this website",
-      "github": "https://github.com/spicecat"
+      "website": "https://github.com/spicecat"
     },
     {
       "img": "img/team/michael.jpg",
       "name": "Michael",
       "job": "Director of Cyberattack Counteroperations",
-      "github": "https://github.com/caoash"
+      "website": "https://github.com/caoash"
     },
     {
       "img": "img/team/sam.jpg",
       "name": "Sam",
       "job": "Vice President in case the <a href='https://en.wikipedia.org/wiki/Bus_factor'> President gets hit by a bus",
-      "github": "https://github.com/samuelchen2004"
+      "website": "https://github.com/samuelchen2004"
     },
     {
       "img": "img/team/billiam.jpg",
       "name": "Billiam Wender",
       "job": "Intro to Python protagonist and memelord-in-chief",
-      "github": null
+      "website": "https://github.com/LadueCS/Intro-to-Python"
     },
     {
       "img": "img/team/bobert.jpg",
       "name": "Bobert Render",
       "job": "Billiam's long-lost brother and chairman of the Meme Party",
-      "github": null
+      "website": "https://github.com/LadueCS/Intro-to-Python"
     },
     {
       "img": "img/team/aiden.png",
       "name": "Aiden Lambert",
-      "job": "(un)Official representative of the robotics team. Plotting the downfall of Anthony in order to gain control of the computer science club. He's a dangerous, shady man. You should be careful around him.",
-      "github": "https://github.com/theVerySharpFlat"
+      "job": "(un)Official representative of the robotics team. Plotting the downfall of Anthony in order to gain control of the computer science club. He's a dangerous, shady memelord. You should be careful around him.",
+      "website": "https://github.com/theVerySharpFlat"
     }
   ]
 }
