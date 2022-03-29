@@ -164,6 +164,36 @@
             "name": "Geoffrey",
             "desc": "Geodude",
             "website": "https://github.com/Dexyaa"
+        },
+        {
+            "img": "img/projects/presentations.jpg",
+            "name": "Olena",
+            "desc": "I hate tkinter",
+            "website": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        },
+        {
+            "img": "img/projects/presentations.jpg",
+            "name": "Alice",
+            "desc": "<i>FNAF music intensifies...</i>",
+            "website": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        },
+        {
+            "img": "img/projects/presentations.jpg",
+            "name": "David",
+            "desc": "<i>(no description provided)</i>",
+            "website": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        },
+        {
+            "img": "img/projects/presentations.jpg",
+            "name": "Frank",
+            "desc": "TheLivingPepsi",
+            "website": "https://www.youtube.com/TheLivingPepsi"
+        },
+        {
+            "img": "img/projects/presentations.jpg",
+            "name": "Robert",
+            "desc": "Godly carrot",
+            "website": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
         }
     ]
 }
