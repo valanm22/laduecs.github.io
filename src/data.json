@@ -39,42 +39,42 @@
     {
       "title": "2048",
       "link": "https://replit.com/@Ta180m/2048#main.py",
-      "smallImage": "img/projects/2048.png"
+      "image": "img/projects/2048.png"
     },
     {
       "title": "Intro to Python",
       "link": "https://github.com/LadueCS/Intro-to-Python",
-      "smallImage": "img/projects/Intro-to-Python.png"
+      "image": "img/projects/Intro-to-Python.png"
     },
     {
       "title": "Awesome CS",
       "link": "https://github.com/LadueCS/Awesome-CS",
-      "smallImage": "img/projects/awesome-cs.png"
+      "image": "img/projects/awesome-cs.png"
     },
     {
       "title": "CTFs",
       "link": "https://github.com/LadueCS/Ultimate-Ladue-CS-Challenge",
-      "smallImage": "img/projects/ctfs.png"
+      "image": "img/projects/ctfs.png"
     },
     {
       "title": "DUOS",
       "link": "duos",
-      "smallImage": "img/projects/duos.png"
+      "image": "img/projects/duos.png"
     },
     {
       "title": "OpenContest",
       "link": "https://github.com/LadueCS/OpenContest",
-      "smallImage": "img/projects/opencontest.png"
+      "image": "img/projects/opencontest.png"
     },
     {
       "title": "Presentations",
       "link": "https://github.com/LadueCS/Presentations",
-      "smallImage": "img/projects/presentations.jpg"
+      "image": "img/projects/presentations.jpg"
     },
     {
       "title": "laduecs.github.io",
       "link": "https://github.com/LadueCS/laduecs.github.io",
-      "smallImage": "img/22-03-15 14-45-25 0092.jpg"
+      "image": "img/22-03-15 14-45-25 0092.jpg"
     }
   ],
   "Team": [

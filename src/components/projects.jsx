@@ -19,7 +19,7 @@ export const Projects = (props) => {
                     <Image
                       title={d.title}
                       link={d.link}
-                      smallImage={d.smallImage}
+                      image={d.image}
                     />
                   </div>
                 ))
