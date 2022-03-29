@@ -16,13 +16,14 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
           </button>
           <img
+            className="navbar-logo page-scroll"
             src="img/logo.png"
             alt="icon"
-            width="50px"
-            height="50px"
-            float="left"
           />
-          <a className="navbar-brand page-scroll" href="#page-top">
+          <a
+            className="navbar-brand page-scroll"
+            href="#page-top"
+          >
             LADUE COMPUTER SCIENCE
           </a>{" "}
         </div>
@@ -48,12 +49,7 @@ export const Navigation = (props) => {
               </a>
             </li>
             <li>
-              <a
-                href="https://github.com/LadueCS"
-                className="page-scroll"
-                target="_blank"
-                rel="noreferrer"
-              >
+              <a href="https://github.com/LadueCS" className="page-scroll">
                 GitHub
               </a>
             </li>
