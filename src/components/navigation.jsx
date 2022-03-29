@@ -15,10 +15,15 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
-          <img className="navbar-logo page-scroll" src="img/logo.png" alt="icon" />
+          <img
+            className="navbar-logo page-scroll"
+            src="img/logo.png"
+            alt="icon"
+          />
           <a
             className="navbar-brand page-scroll"
-            href="#page-top">
+            href="#page-top"
+          >
             LADUE COMPUTER SCIENCE
           </a>{" "}
         </div>
