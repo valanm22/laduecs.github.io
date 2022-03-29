@@ -43,7 +43,7 @@ export const Navigation = (props) => {
             </li>
             <li>
               <a
-                href="https://github.com/LadueCS/laduecs.github.io"
+                href="https://github.com/LadueCS"
                 className="page-scroll"
                 target="_blank"
                 rel="noreferrer"
