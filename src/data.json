@@ -125,6 +125,18 @@
       "name": "Abheekd",
       "job": "The Abheek daemon",
       "website": "https://adawesome.tech"
+    },
+    {
+      "img": "img/team/notSam.jpg",
+      "name": "Samuel Wiseman",
+      "job": "Soda consumer and avid reverse engineer",
+      "website": "https://github.com/notSam25/"
+    },
+    {
+      "img": "img/team/owenS.jpg",
+      "name": "Owen Song",
+      "job": "Proffesional Food Therapist and 2028 code champion",
+      "website": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     }
   ]
 }
