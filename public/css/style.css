@@ -82,7 +82,7 @@ hr {
 }
 #menu a.navbar-brand {
   font-family: "Raleway", sans-serif;
-  font-size: 24px;
+  font-size: 40px;
   font-weight: 700;
   color: #333;
   text-transform: uppercase;
@@ -139,6 +139,11 @@ hr {
 }
 .navbar-default .navbar-toggle:hover > .icon-bar {
   background-color: #608dfd;
+}
+.navbar-brand {
+  height: 80px;
+  padding: 5px 5px;
+  line-height: 69px;
 }
 .section-title {
   margin-bottom: 10px;
