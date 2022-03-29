@@ -115,6 +115,12 @@
       "name": "Bobert Render",
       "job": "Billiam's long-lost brother and chairman of the Meme Party",
       "github": null
+    },
+    {
+      "img": "img/team/aiden.png",
+      "name": "Aiden Lambert",
+      "job": "(un)Official representative of the robotics team. Plotting the downfall of Anthony in order to gain control of the computer science club. He's a dangerous, shady man. You should be careful around him.",
+      "github": "https://github.com/theVerySharpFlat"
     }
   ]
 }
