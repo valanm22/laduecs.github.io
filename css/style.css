@@ -349,7 +349,7 @@ header .intro-text {
   margin: 5px 0;
 }
 .team-img {
-  height: 250px !important;
+  height: 165px !important;
   min-width: 165px;
 }
 #team .thumbnail {
@@ -363,8 +363,8 @@ header .intro-text {
 }
 
 .team {
-  width: 33%;
-  height: 400px;
+  width: 20%;
+  height: 300px;
 }
 .individualDesc {
   overflow-wrap: break-word;
