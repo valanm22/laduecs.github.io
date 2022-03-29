@@ -136,21 +136,21 @@
             "website": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
         },
         {
-            "img": "img/projects/presentations.jpg",
+            "img": "img/team/kevin.png",
             "name": "Kevin",
-            "desc": "<i>(no description provided)</i>",
+            "desc": "The <i>REAL</i> Kevin Tang",
             "website": "https://github.com/ktang54"
         },
         {
-            "img": "img/projects/presentations.jpg",
+            "img": "img/team/sayam.png",
             "name": "Sayam",
             "desc": "<i>(no description provided)</i>",
             "website": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
         },
         {
-            "img": "img/projects/presentations.jpg",
+            "img": "https://avatars.githubusercontent.com/u/79669032",
             "name": "Akshar",
-            "desc": "<i>(no description provided)</i>",
+            "desc": "I'm an average competitive programmer, I use Java or C++ for CP. Looking to create more projects soon and learn Javascript, more C++, and web development.",
             "website": "https://github.com/notAkki"
         },
         {
@@ -162,7 +162,7 @@
         {
             "img": "https://avatars.githubusercontent.com/u/87618311",
             "name": "Geoffrey",
-            "desc": "<i>(no description provided)</i>",
+            "desc": "Geodude",
             "website": "https://github.com/Dexyaa"
         }
     ]
