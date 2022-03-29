@@ -137,6 +137,42 @@
       "name": "Owen Song",
       "job": "Proffesional Food Therapist and 2028 code champion",
       "website": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "img": "img/projects/presentations.jpg",
+      "name": "Kevin",
+      "job": "<i>(no description provided)</i>",
+      "website": "https://github.com/ktang54"
+    },
+    {
+      "img": "img/projects/presentations.jpg",
+      "name": "Sayam",
+      "job": "<i>(no description provided)</i>",
+      "website": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "img": "img/projects/presentations.jpg",
+      "name": "Akshar",
+      "job": "<i>(no description provided)</i>",
+      "website": "https://github.com/notAkki"
+    },
+    {
+      "img": "img/projects/presentations.jpg",
+      "name": "Richie",
+      "job": "Concerned penguin",
+      "website": "https://github.com/GitCracking"
+    },
+    {
+      "img": "img/projects/presentations.jpg",
+      "name": "Geoffrey",
+      "job": "<i>(no description provided)</i>",
+      "website": "https://github.com/Dexyaa"
+    },
+    {
+      "img": "https://avatars.githubusercontent.com/u/87618311",
+      "name": "Geoffrey",
+      "job": "<i>(no description provided)</i>",
+      "website": "https://github.com/Dexyaa"
     }
   ]
 }
