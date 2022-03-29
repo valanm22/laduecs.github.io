@@ -6,7 +6,10 @@ export const Projects = (props) => {
       <div className="container">
         <div className="section-title">
           <h2>Projects</h2>
-          <p>Check out our projects! (Bad layout intentional for <b>AESTHETIC</b> purposes)</p>
+          <p>
+            Check out our projects! (Bad layout intentional for <b>AESTHETIC</b>{" "}
+            purposes)
+          </p>
         </div>
         <div className="row">
           <div className="projects-items">
@@ -16,11 +19,7 @@ export const Projects = (props) => {
                     key={`${d.title}-${i}`}
                     className="col-sm-6 col-md-4 col-lg-4"
                   >
-                    <Image
-                      title={d.title}
-                      link={d.link}
-                      image={d.image}
-                    />
+                    <Image title={d.title} link={d.link} image={d.image} />
                   </div>
                 ))
               : "Loading..."}
