@@ -1,39 +1,37 @@
 {
   "Header": {
     "title": "Ladue Computer Science",
-    "paragraph": "This website needs your help!"
+    "paragraph": "Computer Science && Ladue == ❤️"
   },
   "About": {
-    "paragraph": "We're creative and curious students interested in computer science, dedicated to promoting computer science in our comunity.",
+    "paragraph": "YOOOOOOO hello! We're creative. We're curious. We're students. We love computer science. We're from Ladue. The rest is left as an exercise to the reader. There will be a test at the end.",
     "Why": [
-      "We're Ladue's one and only computer science club! (Robotics doesn't count we're totally better!)",
-      "We participate in FUN and interesting and entertaining presentations and activities",
-      "Meet and learn from smart and talented mentors",
-      "Learn to create your own personal projects",
-      "CS is cool so why wouldn't you want to learn about it?",
-      "Your reason here!",
-      "YOUR AD HERE"
+      "We're Ladue's one and only computer science club! (LMAO Robotics kids as they furiously fake-code 🤣)",
+      "We do FUN STUFF. Like really FUN STUFF. So FUN that you'll quit all your other clubs to do our FUN stuff. Seriously, come check out our FUN STUFF. This is not meant to be sinister. The next one is...",
+      "You'll meet 300 IQ people and even better, learn their secret dark tricks! >:)",
+      "You'll go through the stages of programming enlightenment: 0) Scratch lmao 1) Basic Python and HTML/CSS/JS 2) Git, Bash, Linux, FUNctional programming 3) Fake news bots, binary exploitation, BSD, non-backdoored RNG, commodity supercomputers 4) World domination à la Google/Instametabook 5) How to get a better night's sleep after coding in front of your computer for the past 40 hours continuously. Let's get started!",
+      "lol does <a href='https://www.stilldrinking.org/programming-sucks'>inline HTML</a> work now?? I need my daily SQL injections!"
     ],
     "Features": [
       {
         "icon": "fa fa-comments-o",
-        "title": "Learn",
-        "text": "Python, Web Development, Game Design, Cybersecurity"
+        "title": "Learn!",
+        "text": "Python, web development, game design, hAcKiNg"
       },
       {
         "icon": "fa fa-bullhorn",
-        "title": "Create",
-        "text": "Create fake news bots to subvert democracy to learn about machine learning!"
+        "title": "Create!",
+        "text": "Personal websites, bots, RPGs, supercomputers"
       },
       {
         "icon": "fa fa-group",
-        "title": "Explore",
-        "text": "RNG, Cryptocurrency, AI"
+        "title": "Explore!",
+        "text": "DueCoin™ NFTs, \"real\" RNG, Artificial Stupidity, hacking your friends"
       },
       {
         "icon": "fa fa-magic",
         "title": "Compete",
-        "text": "ACSL, USACO, Dueforces"
+        "text": "ACSL, USACO (give up, too hard 😭)"
       }
     ]
   },
@@ -51,45 +49,45 @@
     {
       "title": "Awesome CS",
       "link": "https://github.com/LadueCS/Awesome-CS",
-      "smallImage": "img/projects/03-small.jpg"
+      "smallImage": "img/projects/awesome-cs.png"
     },
     {
       "title": "CTFs",
       "link": "https://github.com/LadueCS/Ultimate-Ladue-CS-Challenge",
-      "smallImage": "img/projects/04-small.jpg"
+      "smallImage": "img/projects/ctfs.png"
     },
     {
       "title": "DUOS",
       "link": "duos",
-      "smallImage": "img/projects/05-small.jpg"
+      "smallImage": "img/projects/duos.png"
     },
     {
       "title": "OpenContest",
       "link": "https://github.com/LadueCS/OpenContest",
-      "smallImage": "img/projects/06-small.jpg"
+      "smallImage": "img/projects/opencontest.png"
     },
     {
       "title": "Presentations",
       "link": "https://github.com/LadueCS/Presentations",
-      "smallImage": "img/projects/07-small.jpg"
+      "smallImage": "img/projects/presentations.jpg"
     },
     {
       "title": "laduecs.github.io",
       "link": "https://github.com/LadueCS/laduecs.github.io",
-      "smallImage": "img/projects/08-small.jpg"
+      "smallImage": "img/22-03-15 14-45-25 0092.jpg"
     }
   ],
   "Team": [
     {
       "img": "img/team/anthony.jpg",
       "name": "Anthony",
-      "job": "\"President\" (actually, <a href='https://en.wikipedia.org/wiki/Benevolent_dictator_for_life'>benevolent dictator</a>)",
+      "job": "\"President\" (actually <a href='https://en.wikipedia.org/wiki/Benevolent_dictator_for_life'>benevolent dictator</a>)",
       "github": "https://github.com/Ta180m"
     },
     {
       "img": "img/team/andy.jpg",
       "name": "Andy",
-      "job": "The person you should thank for making this website",
+      "job": "Give Andy a high-five the next time you see him for making this website",
       "github": "https://github.com/spicecat"
     },
     {

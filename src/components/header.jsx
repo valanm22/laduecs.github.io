@@ -12,10 +12,10 @@ export const Header = (props) => {
                 </h1>
                 <p>{props.data ? props.data.paragraph : 'Loading'}</p>
                 <a
-                  href='https://github.com/LadueCS/laduecs.github.io/issues'
+                  href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'
                   className='btn btn-custom btn-lg page-scroll'
                 >
-                  Please HELP!!!!!!!!!!!!
+                  Learn More!!!!!!!
                 </a>{' '}
               </div>
             </div>
