@@ -4,6 +4,7 @@ import { Header } from "./components/header";
 import { About } from "./components/about";
 import { Projects } from "./components/projects";
 import { Team } from "./components/team";
+import { Calendar } from "./components/calendar"
 import JsonData from "./data.json";
 import "./App.css";
 
@@ -18,6 +19,7 @@ const App = () => {
       <Header data={landingPageData.Header} />
       <Navigation />
       <About data={landingPageData.About} />
+      <Calendar data={null}></Calendar>
       <Projects data={landingPageData.Projects} />
       <Team data={landingPageData.Team} />
       <div id='footer'>
