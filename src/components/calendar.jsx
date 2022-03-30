@@ -5,6 +5,19 @@ import Cal from 'react-calendar';
 
 export const Calendar = (props) => {
 
+  let file = new File([], "public/schedule.csv");
+
+    fetch( "schedule.csv " )
+    .then(async response => {
+      const reader = response.body.getReader()
+      const result = await reader.read() // raw array
+      const decoder = new TextDecoder('utf-8')
+      const csv = decoder.decode(result.value)
+      console.log(csv);
+    }).catch(err => {
+      console.error(err);
+    });
+
   let value = new Date();
   let calendarChangeCallback = (val, event) => {
     console.log(val);
