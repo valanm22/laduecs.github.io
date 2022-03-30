@@ -118,7 +118,7 @@
             "website": "https://github.com/theVerySharpFlat"
         },
         {
-            "img": "https://avatars.githubusercontent.com/u/67982792",
+            "img": "img/team/abheek.jpg",
             "name": "Abheekd",
             "desc": "The Abheek daemon",
             "website": "https://adawesome.tech"
@@ -131,18 +131,18 @@
         },
         {
             "img": "img/team/owenS.png",
-            "name": "Owen Song",
+            "name": "Owen",
             "desc": "Proffesional Food Therapist and 2028 code champion",
             "website": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
         },
         {
-            "img": "img/team/kevin.png",
+            "img": "img/team/kevin.jpg",
             "name": "Kevin",
-            "desc": "The <i>REAL</i> Kevin Tang",
+            "desc": "The <i>REAL</i> Kevin",
             "website": "https://github.com/ktang54"
         },
         {
-            "img": "img/team/sayam.png",
+            "img": "img/team/sayam.jpg",
             "name": "Sayam",
             "desc": "<i>(no description provided)</i>",
             "website": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
@@ -166,19 +166,19 @@
             "website": "https://github.com/Dexyaa"
         },
         {
-            "img": "img/projects/presentations.jpg",
+            "img": "img/team/olena.jpg",
             "name": "Olena",
             "desc": "I hate tkinter",
             "website": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
         },
         {
-            "img": "img/projects/presentations.jpg",
+            "img": "img/team/alice.jpg",
             "name": "Alice",
             "desc": "<i>FNAF music intensifies...</i>",
             "website": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
         },
         {
-            "img": "img/projects/presentations.jpg",
+            "img": "img/team/david.jpg",
             "name": "David",
             "desc": "<i>(no description provided)</i>",
             "website": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
@@ -193,6 +193,12 @@
             "img": "img/projects/presentations.jpg",
             "name": "Robert",
             "desc": "Godly carrot",
+            "website": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        },
+        {
+            "img": "img/team/JohnDohe.jpg",
+            "name": "John Doe",
+            "desc": "John Doe John Doe John Doe",
             "website": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
         }
     ]
