@@ -194,6 +194,12 @@
             "name": "Robert",
             "desc": "Godly carrot",
             "website": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        },
+        {
+            "img": "img/team/JohnDoe.jpg",
+            "name": "John Doe",
+            "desc": "John Doe John Doe John Doe",
+            "website": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
         }
     ]
 }
