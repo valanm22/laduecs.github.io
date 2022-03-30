@@ -22,10 +22,23 @@ const App = () => {
       <Calendar data={null}></Calendar>
       <Projects data={landingPageData.Projects} />
       <Team data={landingPageData.Team} />
-      <div id='footer'>
-        <div className='container text-center'>
+      <div id="footer">
+        <div className="container text-center">
           <p>
-            &copy; ∞ Billiam Wender and the <a href="https://github.com/LadueCS/laduecs.github.io/graphs/contributors">Ladue community</a>
+            &copy; ∞ Billiam Wender and the{" "}
+            <a href="https://github.com/LadueCS/laduecs.github.io/graphs/contributors">
+              Ladue community
+            </a>
+          </p>
+          <p>
+            🎉🎉🎉🎉 Alright, time for the test at the end! 🎉🎉🎉🎉 I warned
+            you, didn't I? Problem 1: Will you join LadueCS? Problem 2: Will you
+            come to our weekly meetings? Problem 3: What is Mr. White's phone
+            number?
+          </p>
+          <p class="troll">
+            Answers: Yes, Yes, 314-XXX-XXXX (come to our meetings for the last 7
+            digits)
           </p>
         </div>
       </div>

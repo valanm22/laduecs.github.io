@@ -1,126 +1,199 @@
 {
-  "Header": {
-    "title": "Ladue Computer Science",
-    "paragraph": "This website needs your help!"
-  },
-  "About": {
-    "paragraph": "We're creative and curious students interested in computer science, dedicated to promoting computer science in our comunity.",
-    "Why": [
-      "We're Ladue's one and only computer science club! (Robotics doesn't count we're totally better!)",
-      "We participate in FUN and interesting and entertaining presentations and activities",
-      "Meet and learn from smart and talented mentors",
-      "Learn to create your own personal projects",
-      "CS is cool so why wouldn't you want to learn about it?",
-      "Your reason here!",
-      "YOUR AD HERE"
+    "Header": {
+        "title": "Ladue Computer Science",
+        "paragraph": "Computer Science && Ladue == ❤️"
+    },
+    "About": {
+        "paragraph": "YOOOOOOO hello! We're creative. We're curious. We're students. We love computer science. We're from Ladue. The rest is left as an exercise to the reader. There will be a test at the end.",
+        "Why": [
+            "We're Ladue's one and only computer science club! (LMAO Robotics kids as they furiously fake-code 🤣)",
+            "We do FUN STUFF. Like really FUN STUFF. So FUN that you'll quit all your other clubs to do our FUN stuff. Seriously, come check out our FUN STUFF. This is not meant to be sinister. The next one is...",
+            "You'll meet 300 IQ people and even better, learn their secret dark tricks! >:)",
+            "You'll go through the stages of programming enlightenment: 0) Scratch lmao 1) Basic Python and HTML/CSS/JS 2) Git, Bash, Linux, FUNctional programming 3) Fake news bots, binary exploitation, BSD, non-backdoored RNG, commodity supercomputers 4) World domination à la Google/Instametabook 5) How to get a better night's sleep after coding in front of your computer for the past 40 hours continuously. Let's get started!",
+            "lol does <a href='https://www.stilldrinking.org/programming-sucks'>inline HTML</a> work now?? I need my <p class=\"h4\">daily <blink>SQL</blink> injections<p>! <!-- idk what that does but it looks cool -->"
+        ],
+        "Features": [{
+                "icon": "fa fa-comments-o",
+                "title": "Learn!",
+                "text": "Python, web development, game design, hAcKiNg"
+            },
+            {
+                "icon": "fa fa-bullhorn",
+                "title": "Create!",
+                "text": "Personal websites, bots, RPGs, supercomputers"
+            },
+            {
+                "icon": "fa fa-group",
+                "title": "Explore!",
+                "text": "DueCoin™ NFTs, \"real\" RNG, Artificial Stupidity, hacking your friends"
+            },
+            {
+                "icon": "fa fa-magic",
+                "title": "Compete",
+                "text": "ACSL, USACO (give up, too hard 😭)"
+            }
+        ]
+    },
+    "Projects": [{
+            "title": "2048",
+            "link": "https://replit.com/@Ta180m/2048#main.py",
+            "image": "img/projects/2048.png"
+        },
+        {
+            "title": "Intro to Python",
+            "link": "https://github.com/LadueCS/Intro-to-Python",
+            "image": "img/projects/Intro-to-Python.png"
+        },
+        {
+            "title": "Awesome CS",
+            "link": "https://github.com/LadueCS/Awesome-CS",
+            "image": "img/projects/awesome-cs.png"
+        },
+        {
+            "title": "CTFs",
+            "link": "https://github.com/LadueCS/Ultimate-Ladue-CS-Challenge",
+            "image": "img/projects/ctfs.png"
+        },
+        {
+            "title": "DUOS",
+            "link": "duos",
+            "image": "img/projects/duos.png"
+        },
+        {
+            "title": "OpenContest",
+            "link": "https://github.com/LadueCS/OpenContest",
+            "image": "img/projects/opencontest.png"
+        },
+        {
+            "title": "Presentations",
+            "link": "https://github.com/LadueCS/Presentations",
+            "image": "img/projects/presentations.jpg"
+        },
+        {
+            "title": "laduecs.github.io",
+            "link": "https://github.com/LadueCS/laduecs.github.io",
+            "image": "img/22-03-15 14-45-25 0092.jpg"
+        }
     ],
-    "Features": [
-      {
-        "icon": "fa fa-comments-o",
-        "title": "Learn",
-        "text": "Python, Web Development, Game Design, Cybersecurity"
-      },
-      {
-        "icon": "fa fa-bullhorn",
-        "title": "Create",
-        "text": "Create fake news bots to subvert democracy to learn about machine learning!"
-      },
-      {
-        "icon": "fa fa-group",
-        "title": "Explore",
-        "text": "RNG, Cryptocurrency, AI"
-      },
-      {
-        "icon": "fa fa-magic",
-        "title": "Compete",
-        "text": "ACSL, USACO, Dueforces"
-      }
+    "Team": [{
+            "img": "img/team/anthony.jpg",
+            "name": "Anthony",
+            "desc": "\"President\" (actually <a href='https://en.wikipedia.org/wiki/Benevolent_dictator_for_life'>benevolent dictator</a>)",
+            "website": "https://ta180m.exozy.me"
+        },
+        {
+            "img": "img/team/andy.jpg",
+            "name": "Andy",
+            "desc": "Give Andy a high-five the next time you see him for making this website",
+            "website": "https://github.com/spicecat"
+        },
+        {
+            "img": "img/team/michael.jpg",
+            "name": "Michael",
+            "desc": "Director of Cyberattack Counteroperations",
+            "website": "https://github.com/caoash"
+        },
+        {
+            "img": "img/team/sam.jpg",
+            "name": "Sam",
+            "desc": "Vice President in case the <a href='https://en.wikipedia.org/wiki/Bus_factor'> President gets hit by a bus",
+            "website": "https://github.com/samuelchen2004"
+        },
+        {
+            "img": "img/team/billiam.jpg",
+            "name": "Billiam Wender",
+            "desc": "Intro to Python protagonist and memelord-in-chief",
+            "website": "https://github.com/LadueCS/Intro-to-Python"
+        },
+        {
+            "img": "img/team/bobert.jpg",
+            "name": "Bobert Render",
+            "desc": "Billiam's long-lost brother and chairman of the Meme Party",
+            "website": "https://github.com/LadueCS/Intro-to-Python"
+        },
+        {
+            "img": "img/team/aiden.png",
+            "name": "Aiden Lambert",
+            "desc": "(un)Official representative of the robotics team. Plotting the downfall of Anthony in order to gain control of the computer science club. He's a dangerous, shady memelord. You should be careful around him.",
+            "website": "https://github.com/theVerySharpFlat"
+        },
+        {
+            "img": "https://avatars.githubusercontent.com/u/67982792",
+            "name": "Abheekd",
+            "desc": "The Abheek daemon",
+            "website": "https://adawesome.tech"
+        },
+        {
+            "img": "img/team/notSam.jpg",
+            "name": "Samuel Wiseman",
+            "desc": "Soda consumer and avid reverse engineer",
+            "website": "https://github.com/notSam25/"
+        },
+        {
+            "img": "img/team/owenS.png",
+            "name": "Owen Song",
+            "desc": "Proffesional Food Therapist and 2028 code champion",
+            "website": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        },
+        {
+            "img": "img/team/kevin.png",
+            "name": "Kevin",
+            "desc": "The <i>REAL</i> Kevin Tang",
+            "website": "https://github.com/ktang54"
+        },
+        {
+            "img": "img/team/sayam.png",
+            "name": "Sayam",
+            "desc": "<i>(no description provided)</i>",
+            "website": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        },
+        {
+            "img": "https://avatars.githubusercontent.com/u/79669032",
+            "name": "Akshar",
+            "desc": "I'm an average competitive programmer, I use Java or C++ for CP. Looking to create more projects soon and learn Javascript, more C++, and web development.",
+            "website": "https://github.com/notAkki"
+        },
+        {
+            "img": "img/projects/presentations.jpg",
+            "name": "Richie",
+            "desc": "Concerned penguin",
+            "website": "https://github.com/GitCracking"
+        },
+        {
+            "img": "https://avatars.githubusercontent.com/u/87618311",
+            "name": "Geoffrey",
+            "desc": "Geodude",
+            "website": "https://github.com/Dexyaa"
+        },
+        {
+            "img": "img/projects/presentations.jpg",
+            "name": "Olena",
+            "desc": "I hate tkinter",
+            "website": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        },
+        {
+            "img": "img/projects/presentations.jpg",
+            "name": "Alice",
+            "desc": "<i>FNAF music intensifies...</i>",
+            "website": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        },
+        {
+            "img": "img/projects/presentations.jpg",
+            "name": "David",
+            "desc": "<i>(no description provided)</i>",
+            "website": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        },
+        {
+            "img": "img/projects/presentations.jpg",
+            "name": "Frank",
+            "desc": "TheLivingPepsi",
+            "website": "https://www.youtube.com/TheLivingPepsi"
+        },
+        {
+            "img": "img/projects/presentations.jpg",
+            "name": "Robert",
+            "desc": "Godly carrot",
+            "website": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }
     ]
-  },
-  "Projects": [
-    {
-      "title": "2048",
-      "link": "https://replit.com/@Ta180m/2048#main.py",
-      "smallImage": "img/projects/2048.png"
-    },
-    {
-      "title": "Intro to Python",
-      "link": "https://github.com/LadueCS/Intro-to-Python",
-      "smallImage": "img/projects/Intro-to-Python.png"
-    },
-    {
-      "title": "Awesome CS",
-      "link": "https://github.com/LadueCS/Awesome-CS",
-      "smallImage": "img/projects/03-small.jpg"
-    },
-    {
-      "title": "CTFs",
-      "link": "https://github.com/LadueCS/Ultimate-Ladue-CS-Challenge",
-      "smallImage": "img/projects/04-small.jpg"
-    },
-    {
-      "title": "DUOS",
-      "link": "duos",
-      "smallImage": "img/projects/05-small.jpg"
-    },
-    {
-      "title": "OpenContest",
-      "link": "https://github.com/LadueCS/OpenContest",
-      "smallImage": "img/projects/06-small.jpg"
-    },
-    {
-      "title": "Presentations",
-      "link": "https://github.com/LadueCS/Presentations",
-      "smallImage": "img/projects/07-small.jpg"
-    },
-    {
-      "title": "laduecs.github.io",
-      "link": "https://github.com/LadueCS/laduecs.github.io",
-      "smallImage": "img/projects/08-small.jpg"
-    }
-  ],
-  "Team": [
-    {
-      "img": "img/team/anthony.jpg",
-      "name": "Anthony",
-      "job": "\"President\" (actually, <a href='https://en.wikipedia.org/wiki/Benevolent_dictator_for_life'>benevolent dictator</a>)",
-      "github": "https://github.com/Ta180m"
-    },
-    {
-      "img": "img/team/andy.jpg",
-      "name": "Andy",
-      "job": "The person you should thank for making this website",
-      "github": "https://github.com/spicecat"
-    },
-    {
-      "img": "img/team/michael.jpg",
-      "name": "Michael",
-      "job": "Director of Cyberattack Counteroperations",
-      "github": "https://github.com/caoash"
-    },
-    {
-      "img": "img/team/sam.jpg",
-      "name": "Sam",
-      "job": "Vice President in case the <a href='https://en.wikipedia.org/wiki/Bus_factor'> President gets hit by a bus",
-      "github": "https://github.com/samuelchen2004"
-    },
-    {
-      "img": "img/team/billiam.jpg",
-      "name": "Billiam Wender",
-      "job": "Intro to Python protagonist and memelord-in-chief",
-      "github": null
-    },
-    {
-      "img": "img/team/bobert.jpg",
-      "name": "Bobert Render",
-      "job": "Billiam's long-lost brother and chairman of the Meme Party",
-      "github": null
-    },
-    {
-      "img": "img/team/aiden.png",
-      "name": "Aiden Lambert",
-      "job": "(un)Official representative of the robotics team. Plotting the downfall of Anthony in order to gain control of the computer science club. He's a dangerous, shady man. You should be careful around him.",
-      "github": "https://github.com/theVerySharpFlat"
-    }
-  ]
 }
