@@ -7,7 +7,7 @@ export const Calendar = (props) => {
 
   let file = new File([], "public/schedule.csv");
 
-    fetch( "schedule.csv " )
+    fetch( "schedule.csv" )
     .then(async response => {
       const reader = response.body.getReader()
       const result = await reader.read() // raw array
