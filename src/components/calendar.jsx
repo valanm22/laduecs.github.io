@@ -60,7 +60,7 @@ export const Calendar = (props) => {
   
 
   return (
-      <div className="calendar" style={{marginTop: "5em"}}>
+      <div id="eventCalendar" className="calendar" style={{marginTop: "5em"}}>
         <div className="container text-center calendar-container" style={{paddingBottom: "10px"}}>
           <div className="text-center section-title" style={{marginBottom: "5em"}}>
             <h2>Calendar</h2>
