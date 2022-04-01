@@ -5,16 +5,15 @@ import * as csvtojson from 'csvtojson'
 
 let csvData = null;
 export const Calendar = (props) => {
-  let value = new Date();
+  let calendarValue = new Date();
 
   let calculateEventBoxText = () => {
-    let dateString = `${value.getMonth()+1}/${value.getDate()}/${value.getFullYear()}`;
+    let dateString = `${calendarValue.getMonth()+1}/${calendarValue.getDate()}/${calendarValue.getFullYear()}`;
     if(csvData === null) {
       return (<div>loading...</div>);
     }
     let entry = csvData.find(element => element[0] === dateString);
     if(entry !== undefined) {
-      console.log(entry);
       return (
         <div>
           <h2>🎉Meeting Details🎉</h2>
@@ -32,8 +31,7 @@ export const Calendar = (props) => {
 
   let [eventBoxText, setEventBoxText] = useState(calculateEventBoxText());
   let calendarChangeCallback = (val, event) => {
-    console.log(val);
-    value = val;
+    calendarValue = val;
     setEventBoxText(calculateEventBoxText());
   };
 
@@ -53,7 +51,7 @@ export const Calendar = (props) => {
         setEventBoxText(calculateEventBoxText());
       })
       .catch(err => {
-        console.log(err);
+        console.error(err);
       })
     }).catch(err => {
       console.error(err);
@@ -62,16 +60,16 @@ export const Calendar = (props) => {
   
 
   return (
-      <div class="calendar" style={{marginTop: "5em"}}>
-        <div class="container text-center calendar-container" style={{paddingBottom: "10px"}}>
+      <div className="calendar" style={{marginTop: "5em"}}>
+        <div className="container text-center calendar-container" style={{paddingBottom: "10px"}}>
           <div className="text-center section-title" style={{marginBottom: "5em"}}>
             <h2>Calendar</h2>
           </div>
-          <div class="row" style={{height: "auto"}}>
-            <div align="center" class="col-md-6" style={{marginBottom: "100px"}}>
-              <Cal onChange={calendarChangeCallback} value={value} />
+          <div className="row" style={{height: "auto"}}>
+            <div align="center" className="col-md-6" style={{marginBottom: "100px"}}>
+              <Cal onChange={calendarChangeCallback} value={calendarValue} />
             </div>
-            <div class="col-md-6" style={{height: "auto"}}>
+            <div className="col-md-6" style={{height: "auto"}}>
               {eventBoxText}             
             </div>
           </div>
