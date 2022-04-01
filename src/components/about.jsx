@@ -7,13 +7,13 @@ export const About = (props) => {
         </div>
         <div className="row">
           <div className="about-text">
-            <p class="h4">{props.data ? props.data.paragraph : "loading..."}</p>
+            <p className="h4">{props.data ? props.data.paragraph : "loading..."}</p>
             <br />
             <br />
             <h3 id="join-us">Join Us!</h3>
             <div className="list-style">
               <ul>
-                <p class="h4">
+                <p className="h4">
                   {props.data
                     ? props.data.Why.map((d, i) => (
                         <li key={`${d}-${i}`}>{d}</li>
