@@ -131,14 +131,14 @@
         },
         {
             "img": "img/team/owenS.png",
-            "name": "Owen Song",
+            "name": "Owen",
             "desc": "Proffesional Food Therapist and 2028 code champion",
             "website": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
         },
         {
             "img": "img/team/kevin.jpg",
             "name": "Kevin",
-            "desc": "The <i>REAL</i> Kevin Tang",
+            "desc": "The <i>REAL</i> Kevin",
             "website": "https://github.com/ktang54"
         },
         {
@@ -160,9 +160,9 @@
             "website": "https://github.com/GitCracking"
         },
         {
-            "img": "https://avatars.githubusercontent.com/u/87618311",
+            "img": "img/team/geoffrey.jpg",
             "name": "Geoffrey",
-            "desc": "Geodude",
+            "desc": "fuck running",
             "website": "https://github.com/Dexyaa"
         },
         {
@@ -196,7 +196,7 @@
             "website": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
         },
         {
-            "img": "img/team/JohnDoe.jpg",
+            "img": "img/team/JohnDohe.jpg",
             "name": "John Doe",
             "desc": "John Doe John Doe John Doe",
             "website": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"

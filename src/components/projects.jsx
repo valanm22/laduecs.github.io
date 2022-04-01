@@ -7,8 +7,7 @@ export const Projects = (props) => {
         <div className="section-title">
           <h2>Projects</h2>
           <p>
-            Check out our projects! (Bad layout intentional for <b>AESTHETIC</b>{" "}
-            purposes)
+            Check out our projects!
           </p>
         </div>
         <div className="row">
