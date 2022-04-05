@@ -200,6 +200,30 @@
             "name": "John Doe",
             "desc": "John Doe John Doe John Doe",
             "website": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        },
+        {
+            "img": "img/team/isabella.jpg",
+            "name": "Isabella Wang",
+            "desc": "Future benevolent dictator after Andy, Olena, and Aaron are overthrown",
+            "website": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        },
+        {
+            "img": "img/team/olena.jpg",
+            "name": "Rachel",
+            "desc": "Not Olena",
+            "website": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        },
+        {
+            "img": "img/team/aaron.png",
+            "name": "Aaron",
+            "desc": "Upcoming benevolent dictator",
+            "website": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        },
+        {
+            "img": "img/team/you.jpg",
+            "name": "You",
+            "desc": "You could be on here too! Just ask one of the club members!",
+            "website": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
         }
     ]
 }
