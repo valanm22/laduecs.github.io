@@ -15,7 +15,7 @@ export const Team = (props) => {
                       <img src={d.img} alt="..." className="team-img" />
                     </a>
                     <div className="caption">
-                      <h4>{d.name}</h4>
+                      <h4><a href={d.website} target="_blank" rel="noreferrer">{d.name}</a></h4>
                       <p
                         className="description-text text-center"
                         dangerouslySetInnerHTML={{ __html: d.desc }}
